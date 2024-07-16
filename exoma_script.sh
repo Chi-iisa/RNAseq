@@ -4,7 +4,7 @@
 
 #Carpeta ubicacion Fastq
 Path_service='/mnt/ionpgm_storage/bioinformatics/'
-FastQ_folder=$Path_service'test_exoma/SEBAS'
+FastQ_folder=$Path_service'test_exoma/XXX'
 
 Illumina_adapter='/mnt/ionpgm_storage/bioinformatics/services_and_collaborations/adapters'
 Genome_GRCH38_index='/mnt/ionpgm_storage/bioinformatics/references/GRCh38.p13.genome.fa'
